@@ -1,0 +1,7 @@
+The sum of numbers is: 25
+Invalid input, For input string: "purple"
+The sum of numbers is: 24
+The sum of numbers is: -52
+The sum of numbers is: 0
+No integers detected.
+The sum of numbers is: 71
